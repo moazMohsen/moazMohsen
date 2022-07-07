@@ -61,15 +61,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
   
-<div display="inline">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazMohsen&show_icons=true&theme=tokyonight)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazMohsen&exclude_repo=github-readme-stats,moazMohsen.github.io&theme=tokyonight)](https://github.com/moazMohsen/github-readme-stats)
 
+[![MasterHead](code.gif)](https://github.com/moazMohsen/moazMohsen/edit/main/README.md)
 
 </div>
+
 
 
 
