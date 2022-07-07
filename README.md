@@ -1,12 +1,11 @@
+
+<h6>✨Hi there✨</h6>
+
+<h1>
+<img  src="https://readme-typing-svg.herokuapp.com?size=35&color=F7F7F7&lines=I'm+Moaz+Mohsen" alt="moazmohsen"  />
+</h1>
+
 <div align="center">
-<h6> -Hi there-  </h6>
-<h1> ✨ I'm Moaz Mohsen  ✨</h1>
-<h6>⚡  A passionate frontend developer from KSA ⚡ </h6>
-<a href="https://dancing-sawine-37863b.netlify.app/?fbclid=IwAR1ezwhNY3guvzkhsDC4bXfaRWmmYqwkfD94UjXaG7YCL6uhbL-QndJsSWY" target="blank"><img align="center" src="code.gif" alt="moazmohsen" height="300" /></a>
-</div>
-
-
-
 
 ### Connect with me:
 <a href="https://linkedin.com/in/moazmohsen" target="blank">
@@ -26,6 +25,17 @@
 
 <a href="https://linkedin.com/in/moazmohsen" target="blank">
 <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="moazmohsen"  /></a>
+
+</div>
+
+<div align="center">
+
+<h6  >⚡  A passionate frontend developer ⚡ </h6>
+<a  href="https://dancing-sawine-37863b.netlify.app/?fbclid=IwAR1ezwhNY3guvzkhsDC4bXfaRWmmYqwkfD94UjXaG7YCL6uhbL-QndJsSWY" target="blank"><img  src="code.gif" alt="moazmohsen" height="300" /></a>
+</div>
+
+
+
 
 
 ### Languages and Tools:
@@ -66,7 +76,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazMohsen&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazMohsen&exclude_repo=github-readme-stats,moazMohsen.github.io&theme=tokyonight)](https://github.com/moazMohsen/github-readme-stats)
 
-[![MasterHead](code.gif)](https://github.com/moazMohsen/moazMohsen/edit/main/README.md)
 
 </div>
 
