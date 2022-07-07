@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <h3 align="center">A passionate frontend developer from KSA</h3>
 
@@ -15,6 +15,8 @@
 
 <!--  -->
 
+
+<a href="https://linkedin.com/in/moazmohsen" target="blank"><img align="center" src="code.gif" alt="moazmohsen" height="30" width="40" /></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazMohsen&show_icons=true&theme=tokyonight)
