@@ -8,7 +8,7 @@
 <div align="center">
 
 ### Connect with me:
-<a href="https://linkedin.com/in/moazmohsen" target="blank">
+<a href="https://linkedin.com/in/moazmohsen" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="moazmohsen"  /></a>
 
 <a href="https://isometric-portofolio.netlify.app/" target="blank">
