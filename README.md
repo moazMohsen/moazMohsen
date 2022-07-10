@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/moazmohsen" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="moazmohsen"  /></a>
 
-<a href="https://isometric-portofolio.netlify.app/" target="_blank">
+<a href="https://isometric-portofolio.netlify.app/" target="_top">
 <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="moazmohsen"  /></a>
 
 <a href="https://linkedin.com/in/moazmohsen" target="blank">
