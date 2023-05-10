@@ -10,7 +10,7 @@
 <div align="center">
 
 ### Connect with me:
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+<a href="moaz.mo7sen@gmail.com" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="moazmohsen"  /></a>
 
 <a href="https://isometric-portofolio.netlify.app/" target="_blank">
