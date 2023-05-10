@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/moazmohsen" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moazmohsen"  /></a>
 
-<a href="https://linkedin.com/in/moazmohsen" target="blank">
+<a href="https://www.linkedin.com/in/moaz-moahsen-528248182/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="moazmohsen"  /></a>
   
  <a href="https://www.behance.net/moazMo7sen" target="blank">
