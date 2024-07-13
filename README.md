@@ -5,8 +5,15 @@
 <img  src="https://readme-typing-svg.herokuapp.com?size=35&color=F7F7F7&lines=I'm+Moaz+Mohsen" alt="moazmohsen"  />
 </h1>
 
-<p> “As a graphic designer with 8 years of experience, I have honed my skills in creating visually appealing designs. In addition to my expertise in graphic design, I have also expanded my skill set to include web development and have 1 year of experience in this field. My ability to adapt and learn new technologies has allowed me to continually improve and deliver high-quality work. I also have experience in social media marketing and content creation, and I am always eager to learn and increase my experiences.” <p>
-  
+<p> “
+As a senior Frontend Developer, I’ve consistently delivered compelling designs that enhance Business needs. My proficiency in UI design principles and modern frameworks enables me to create intuitive, user-friendly interfaces and pixel-perfect layouts. I understand responsive design principles and cross-browser compatibility issues, allowing me to build robust web applications for a visually appealing and interactive web experience.
+
+My expertise extends to WordPress Development, where I have successfully built and managed numerous websites, demonstrating my ability to work with various themes and plugins.
+
+I am a multi-faceted professional with a unique blend of design and development skills, committed to delivering comprehensive digital solutions that align with user needs and business objectives.
+
+” <p>
+
 <div align="center">
 
 ### Connect with me:
