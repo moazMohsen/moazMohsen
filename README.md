@@ -62,45 +62,7 @@ interfaces that improve both user experience and business operations.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-## Featured Projects
 
-### 🛍️ Komrz
-SaaS-based commerce platform with custom dashboards,
-video commerce, live-stream shopping, and Gutenberg blocks.
-
-**React · WordPress · PHP · Laravel · JavaScript**
-
-[Visit Website](https://komrz.com/)
-
-### 🎟️ Ticketby
-Modern ticketing platform built with Laravel and a responsive frontend.
-
-**Laravel · JavaScript · SCSS · Tailwind CSS**
-
-[Visit Website](https://app.ticketby.com.sa/en)
-
-### 💳 EDFA Pay
-Professional WordPress website for a payment solutions platform.
-
-**WordPress · Custom Development**
-
-[Visit Website](https://www.edfapay.com/)
-
-### 💎 Lamsa Jewelry House
-E-commerce website focused on product presentation and shopping experience.
-
-**WordPress · E-commerce**
-
-[Visit Website](https://lamsajewellry.com/en/)
-
-### 📱 React Projects
-A collection of React applications and frontend experiments.
-
-**React · Redux · Firebase · Material UI**
-
-[LinkedIn Clone](https://github.com/moazMohsen/linkedin-clone) ·
-[Amazon Clone](https://github.com/moazMohsen/AMAZON-clone) ·
-[Uminex](https://uminex.web.app/)
 
 ## GitHub Stats
 
